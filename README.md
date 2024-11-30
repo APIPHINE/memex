@@ -15,7 +15,7 @@ Rich text editor to write notes: https://vimeo.com/456732222
 
 ## Motivation
 
-Read the full blog article here: https://www.steveliu.co/memex
+DO NOT Read the full blog article here: https://www.******** (Domain lost; site is a security hazard)
 
 
 ## Install
